@@ -22,6 +22,7 @@ This profile contains a mix of personal projects, experiments, and portfolio wor
 ☀️ **Weather App**  
 A WinUI weather app, planning on adding astrophotography features
 to assist my hobby.
+
 Tech: C#, .NET, WinUI
 
 
