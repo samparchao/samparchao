@@ -1,19 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Teixeira Parchao</h1>
 <h3 align="center">Software Engineer | .NET / C# | Python</h3>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=samparchao&show_icons=true&theme=dark"
-    alt="Samuel's GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samparchao&layout=compact&theme=dark&langs_count=8"
-    alt="Top languages"
-  />
-</p>
+<p align="center"> <a href="https://github.com/samparchao"> <img src="https://img.shields.io/github/followers/samparchao?label=Followers&style=flat" alt="GitHub followers"> </a> <a href="https://github.com/samparchao"> <img src="https://img.shields.io/github/stars/samparchao?label=Stars&style=flat" alt="GitHub stars"> </a> </p>
 
 
 ---
