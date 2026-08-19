@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Samuel Teixeira Parchao</h1>
 <h3 align="center">Software Engineer | .NET / C# | Python</h3>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=samparchao&show_icons=true&theme=dark"
+    alt="Samuel's GitHub stats"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=samparchao&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samparchao&layout=compact&theme=dark&langs_count=8"
+    alt="Top languages"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+</p>
+
 
 ---
 
