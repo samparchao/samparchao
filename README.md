@@ -1,55 +1,24 @@
-<h1 align="center">Hi 👋, I'm Samuel Teixeira Parchao</h1>
-<h3 align="center">Software Engineer | .NET / C# | Python</h3>
+![Samuel Teixeira Parchao · Software engineer · United Kingdom](assets/profile-sky.svg)
 
-<p align="center"> <a href="https://github.com/samparchao"> <img src="https://img.shields.io/github/followers/samparchao?label=Followers&style=flat" alt="GitHub followers"> </a> <a href="https://github.com/samparchao"> <img src="https://img.shields.io/github/stars/samparchao?label=Stars&style=flat" alt="GitHub stars"> </a> </p>
+I work in aerospace as a software engineer in the UK. My work spans backend services, infrastructure software and automation, mostly in **C#, .NET and Python**. Outside work, I’m an astrophotographer. That’s how Parc Sky started.
 
+[LinkedIn ↗](https://www.linkedin.com/in/samuelparchao/) · [GitHub projects ↗](https://github.com/samparchao?tab=repositories)
 
----
+## Parc Sky
 
-### 👨‍💻 About Me
+*Will Andromeda clear my horizon before the clouds roll in?*
 
-- 🚝 Software Engineer working on **safety-critical rail infrastructure systems**
-- 💻 I build **backend systems, automation tools, and infrastructure software**
-- 🎓 BSc Computer Science
-- 🇬🇧 Based in the United Kingdom
+I built **Parc Sky** to answer questions like that before taking the telescope outside. It’s a Windows astrophotography planner that brings the forecast, my observing site and the Seestar S50’s field of view into one place.
 
-This profile contains a mix of personal projects, experiments, and portfolio work.
----
-### 🚀 Featured Projects
+[![Parc Sky planning a session on Andromeda, with its altitude through the night and a preview of the Seestar S50 frame](https://raw.githubusercontent.com/samparchao/Parc-Sky/main/docs/screenshots/observing.png)](https://github.com/samparchao/Parc-Sky)
 
-☀️ **Weather App**  
-A WinUI weather app, planning on adding astrophotography features
-to assist my hobby.
+- **Pick a site.** Compare cloud cover and estimated light pollution across saved locations.
+- **Find a shooting window.** See when a target clears the local horizon and how darkness, weather and the Moon affect the session.
+- **Frame the shot.** Search more than 12,000 deep-sky objects offline, preview the S50 framing and keep track of integration time across nights.
 
-Tech: C#, .NET, WinUI
-
-
-### 🤝 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/samuelparchao" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelparchao" height="30" width="40" />
-</a>
-</p>
+**[Explore Parc Sky →](https://github.com/samparchao/Parc-Sky)**　·　[Download for Windows x64 ↓](https://github.com/samparchao/Parc-Sky/releases/latest)
 
 ---
 
-### 🛠 Languages and Tools
-
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="48" height="48"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="48" height="48"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="48" height="48"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="48" height="48"/>
-  </a>
-</p>
+**Toolkit**　 C# · .NET · Python · WinUI 3 · Django · Bootstrap  
+**Education**　 BSc Computer Science
