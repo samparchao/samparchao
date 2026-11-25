@@ -1,4 +1,4 @@
-![Samuel Teixeira Parchao · Software engineer · United Kingdom](assets/profile-sky.svg)
+![Samuel Teixeira Parchão · Software engineer · United Kingdom](assets/profile-sky.svg)
 
 I work in aerospace as a software engineer in the UK. My work spans backend services, infrastructure software and automation, mostly in **C#, .NET and Python**. Outside work, I’m an astrophotographer. That’s how Parc Sky started.
 
