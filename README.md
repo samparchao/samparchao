@@ -18,6 +18,20 @@ I built **Parc Sky** to answer questions like that before taking the telescope o
 
 **[Explore Parc Sky →](https://github.com/samparchao/Parc-Sky)**　·　[Download for Windows x64 ↓](https://github.com/samparchao/Parc-Sky/releases/latest)
 
+## Parc Spend
+
+*How has my net worth changed, and what do I have available to spend?*
+
+I built **Parc Spend** to answer both questions in one Windows app. It brings monthly balance snapshots, transaction history, and cash-flow planning together, with optional Monzo sync.
+
+[![Parc Spend showing a net worth chart and balance breakdown using fictional demo data](https://raw.githubusercontent.com/samparchao/Parc-Spend/main/docs/screenshots/overview.png)](https://github.com/samparchao/Parc-Spend)
+
+- **Track net worth.** Record balances by month, import spreadsheet history, and see what changed.
+- **Review activity.** Import statements, link transfers, and split purchases across categories.
+- **Plan ahead.** Set payday budgets, compare spending scenarios, and track savings goals.
+
+**[Explore Parc Spend →](https://github.com/samparchao/Parc-Spend)**　·　[Download for Windows x64 ↓](https://github.com/samparchao/Parc-Spend/releases/latest)
+
 ---
 
 **Toolkit**　 C# · .NET · Python · WinUI 3 · Django · Bootstrap  
