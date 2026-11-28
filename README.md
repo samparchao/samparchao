@@ -8,4 +8,4 @@ I’m a UK-based aerospace software engineer working on backend services, infras
 
 - **Parc Sky** — Plan a Seestar S50 session around the forecast, local horizon and framing. [Repository](https://github.com/samparchao/Parc-Sky) · [Windows download](https://github.com/samparchao/Parc-Sky/releases/latest)
 - **Parc Spend** — Track net worth, transactions and cash flow in one Windows app, with optional Monzo and Trading 212 connections. [Repository](https://github.com/samparchao/Parc-Spend) · [Windows download](https://github.com/samparchao/Parc-Spend/releases/latest)
-- **Parc Picks** — Pair two phones and vote on what to watch, order, or cook together. [Open Parc Picks](https://parc-tv.sam-parchao.workers.dev/)
+- **Parc Picks** — Pair two phones and vote on what to watch, order, or cook together. [Repository](https://github.com/samparchao/parc-picks) · [Open Parc Picks](https://parc-tv.sam-parchao.workers.dev/)
