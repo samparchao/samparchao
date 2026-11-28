@@ -22,11 +22,12 @@ I built **Parc Sky** to answer questions like that before taking the telescope o
 
 *How has my net worth changed, and what do I have available to spend?*
 
-I built **Parc Spend** to answer both questions in one Windows app. It brings monthly balance snapshots, transaction history, and cash-flow planning together, with optional Monzo sync.
+I built **Parc Spend** to answer both questions in one Windows app. It brings monthly balance snapshots, Excel imports, transaction history, and cash-flow planning together, with optional Monzo and Trading 212 connections.
 
-[![Parc Spend showing a net worth chart and balance breakdown using fictional demo data](https://raw.githubusercontent.com/samparchao/Parc-Spend/main/docs/screenshots/overview.png)](https://github.com/samparchao/Parc-Spend)
+[![Parc Spend comparing two months on its net worth chart using fictional demo data](https://raw.githubusercontent.com/samparchao/Parc-Spend/main/docs/screenshots/overview.png?v=1.1.5)](https://github.com/samparchao/Parc-Spend)
 
-- **Track net worth.** Record balances by month, import spreadsheet history, and see what changed.
+- **Compare net worth.** Drag between months to see the pound and percentage change, and import history from Excel balance tables.
+- **Connect accounts.** Sync Monzo accounts and Pots or a Trading 212 ISA, while keeping other balances manual.
 - **Review activity.** Import statements, link transfers, and split purchases across categories.
 - **Plan ahead.** Set payday budgets, compare spending scenarios, and track savings goals.
 
